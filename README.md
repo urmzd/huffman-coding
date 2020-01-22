@@ -1,2 +1,2 @@
-# huffman_tree_encoding_decoding
+# huffman_coding
 Using a Huffman Tree to encode and decode a text file.
